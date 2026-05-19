@@ -4,6 +4,8 @@ This project analyses public online conversations about ESG and sustainability i
 
 The aim is to identify which topics are most visible and engaging across media platforms such as YouTube, Reddit, X/Twitter and manually collected public LinkedIn posts.
 
+This project demonstrates how media intelligence can help sustainability and construction teams understand which ESG topics are gaining attention online.
+
 The project focuses on themes including:
 
 - Embodied carbon
